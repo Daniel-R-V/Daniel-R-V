@@ -4,7 +4,8 @@
 ### 💻☕ I'm working hard to reinventing myself to become a nice software engineer 🚀 
 
 
-![crab typing](https://user-images.githubusercontent.com/94577920/174447661-41f0bc1e-40ef-454a-8ffd-06f15aa6df2f.gif)
+![crab typing small](https://user-images.githubusercontent.com/94577920/174447973-93d02f5d-906b-4eda-80ee-ed36573ba0af.gif)
+
 
 
 
