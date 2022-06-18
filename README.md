@@ -4,7 +4,7 @@
 ### 💻☕ I'm working hard to reinventing myself to become a nice software engineer 🚀 
 
 
-🌱 I’m currently learning React, Vue and Node Js  
+🌱 I’m currently learning JS, React, Vue and Node Js  
 
 
 🧐 Looking for a job opportunity
