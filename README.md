@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hello! I´m Daniel. Welcome! 👋 
 
-<!--
-**Daniel-R-V/Daniel-R-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 💻☕ I'm working hard to reinventing myself to become a nice software engineer 🚀 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 I’m currently learning React, Vue and Node Js  
+
+🧐 Looking for a job opportunity
+
+
+📫 How to reach me: danirvicente@gmail.com or in my Linkedin: https://www.linkedin.com/in/daniel-ruiz-vicente-1435b9194/
+
