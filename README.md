@@ -9,18 +9,17 @@
 ![crab typing small](https://user-images.githubusercontent.com/94577920/174447973-93d02f5d-906b-4eda-80ee-ed36573ba0af.gif)
 
 <br />
-
-
-
-🌱 I’m currently learning JS, React, Vue and Node Js  
-
+ 
 
 🧐 Looking for a job opportunity
 
+<br />
 
 🛠 Languages and Tools:
 
+
 <br />
+
 
 <div align="center">
     <img style="width: 100px; height: 100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
