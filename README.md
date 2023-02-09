@@ -1,7 +1,7 @@
 # 👋 Hello and Welcome! 👋 
 
 
-### 💻☕ I'm working hard to reinventing myself to become a nice software engineer 🚀 
+### 💻☕ I'm working hard to reinventing myself to become a great software engineer 🚀 
 
 <br />
 
