@@ -11,10 +11,6 @@
 <br />
  
 
-🧐 Looking for a job opportunity
-
-<br />
-
 🛠 Languages and Tools:
 
 
